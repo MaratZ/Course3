@@ -1,5 +1,7 @@
 import datetime
+
 import pytest
+
 from src.services import investment_bank
 from src.utils import read_excel
 
